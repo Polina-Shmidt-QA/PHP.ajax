@@ -1,1 +1,2 @@
-# ajax
+# Код на PHP
+ajax
